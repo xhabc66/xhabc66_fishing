@@ -1,0 +1,16 @@
+关于使用：
+使用前先 chmod u+x *.sh 添加运行权限
+./check.sh(检测代码是否可编译)
+./safe.sh(当程序异常退出时，用来恢复控制台)
+./setup.sh(编译运行)
+./setup2.sh(不编译运行)
+./terminal.sh(假控制台)
+
+
+关于存档：
+读取时可查看name.txt。
+last是无密码的最后一次使用时自动保存的存档，防止程序因bug关闭。
+
+
+关于反馈：
+可加我微信，搜索微信号(lyuwenhan)或邮箱(lanpingzhonglwh@outlook.com)。
