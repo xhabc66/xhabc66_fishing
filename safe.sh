@@ -1,0 +1,2 @@
+stty echo
+stty cooked
